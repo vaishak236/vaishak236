@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello, I'm Vaishak Harish 👋
 
-<!--
-**vaishak236/vaishak236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Educational Background** 
+- Master of Science in Biomedical Engineering from Carnegie Mellon University
+- Bachelor of Engineering in Medical Electronics from BMS College of Engineering, Bangalore, India
 
-Here are some ideas to get you started:
+🔬 **Research Interests**
+- Medical Image Analysis
+- Machine Learning and Deep Learning in Healthcare
+- Wearable Health Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 **Achievements**
+- Recipient of Biomedical Engineering Department Head Fellowship at CMU
+- Lead author in Schizophrenia Research Journal, achieving 95% accuracy in schizophrenia classification
+- Ranked #1 in Paperwing competition in India, represented in Red Bull Paperwings World Finals 2019, Austria
+
+🛠 **Technical Skills**
+- Python, C++, MATLAB
+- PyTorch, TensorFlow, Keras
+- OpenCV, ImageJ, ITK, VTK
+- Fusion 360, COMSOL
+- And many more...
+
+🔗 **Connect**
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [Email](mailto:vharish@andrew.cmu.edu)
