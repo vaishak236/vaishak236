@@ -23,5 +23,6 @@
 
 🔗 **Connect**
 - [LinkedIn](https://www.linkedin.com/in/vaishak-harish-577548143/)
-- [Email](mailto:vharish@andrew.cmu.edu)
-- [Email](mailto:vaishak705@gmail.com)
+- [vaishak705@gmail.com](mailto:vaishak705@gmail.com)
+- [vharish@andrew.cmu.edu](mailto:vharish@andrew.cmu.edu)
+
