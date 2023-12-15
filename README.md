@@ -1,7 +1,7 @@
 # Hello, I'm Vaishak Harish 👋
 
 🎓 **Educational Background** 
-- Master of Science in Biomedical Engineering from Carnegie Mellon University
+- Master of Science in Biomedical Engineering from Carnegie Mellon University, Pittsburgh, PA, USA
 - Bachelor of Engineering in Medical Electronics from BMS College of Engineering, Bangalore, India
 
 🔬 **Research Interests**
